@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79961\\Downloads\\Telegram Desktop\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\users\\79961\\downloads\\telegram desktop\\app\\app\\secondpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\secondpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\users\\79961\\downloads\\telegram desktop\\app\\app\\firstpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\firstpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|c:\\users\\79961\\downloads\\telegram desktop\\app\\app\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A6E2997C-0CF5-4779-8533-E61669EDC3B1}|app\\app.csproj|solutionrelative:app\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstPage.xaml",
+              "DocumentMoniker": "C:\\Users\\79961\\Downloads\\Telegram Desktop\\app\\app\\FirstPage.xaml",
+              "RelativeDocumentMoniker": "app\\FirstPage.xaml",
+              "ToolTip": "C:\\Users\\79961\\Downloads\\Telegram Desktop\\app\\app\\FirstPage.xaml",
+              "RelativeToolTip": "app\\FirstPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T09:56:09.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\79961\\Downloads\\Telegram Desktop\\app\\app\\MainPage.xaml",
+              "RelativeDocumentMoniker": "app\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\79961\\Downloads\\Telegram Desktop\\app\\app\\MainPage.xaml",
+              "RelativeToolTip": "app\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T09:08:31.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondPage.xaml",
+              "DocumentMoniker": "C:\\Users\\79961\\Downloads\\Telegram Desktop\\app\\app\\SecondPage.xaml",
+              "RelativeDocumentMoniker": "app\\SecondPage.xaml",
+              "ToolTip": "C:\\Users\\79961\\Downloads\\Telegram Desktop\\app\\app\\SecondPage.xaml",
+              "RelativeToolTip": "app\\SecondPage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T09:06:46.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

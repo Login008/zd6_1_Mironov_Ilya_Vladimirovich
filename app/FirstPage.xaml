@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="app.FirstPage">
+    <StackLayout Spacing="10" Padding="20">
+
+        <BoxView Color="Red" 
+                 WidthRequest="100" 
+                 HeightRequest="100" 
+                 CornerRadius="10" 
+                 HorizontalOptions="Center" />
+        <BoxView Color="Green" 
+                 WidthRequest="100" 
+                 HeightRequest="100" 
+                 CornerRadius="10" 
+                 HorizontalOptions="Center" />
+        <BoxView Color="Blue" 
+                 WidthRequest="100" 
+                 HeightRequest="100" 
+                 CornerRadius="10" 
+                 HorizontalOptions="Center" />
+        <Button Text="Перейти на экран 2"
+                Clicked="OnNavigateToSecondPage" />
+    </StackLayout>
+</ContentPage>
